@@ -1,1 +1,1 @@
-A random README for holberton exercise
+project shell holberton
